@@ -1,0 +1,27 @@
+.header{
+    background-color: #131E3A;
+    color: #008ECc;
+    font-weight: lighter;
+    width: auto;
+    text-align: left;
+    height: 90px;      
+}
+.inline{
+    margin-top: 20px;
+    display: inline-flex;
+    margin-left: -390px;
+    padding-right: 50px;
+    
+}
+.box1{
+
+    margin-right: -530px;
+    padding: 0px;
+    padding-right: 30px;
+
+}
+.box2{
+
+    text-align: center;
+    padding: 30px;
+}
